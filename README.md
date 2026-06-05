@@ -308,21 +308,3 @@ Nine test cases are provided in `TestCases/`:
 | `TestCase_TC07.xlsx` | Multiple depot locations |
 | `TestCase_TC08.xlsx` | High priority spread |
 | `TestCase_TC09.xlsx` | Combined stress test |
-
----
-
-## Acknowledgements
-
-We sincerely thank our project guide/mentor for their continuous support and valuable insights throughout development.
-
-We also acknowledge the contributors to the open-source tools and libraries this project depends on:
-
-- [Flask](https://flask.palletsprojects.com/) — Web framework
-- [pandas](https://pandas.pydata.org/) — Data loading and Excel parsing
-- [NumPy](https://numpy.org/) & [SciPy](https://scipy.org/) — Numerical operations and KD-Tree
-- [OpenStreetMap](https://www.openstreetmap.org/) — Road network data for Bengaluru
-- [Leaflet.js](https://leafletjs.com/) — Interactive maps
-- [Chart.js](https://www.chartjs.org/) — Dashboard charts
-- [Gunicorn](https://gunicorn.org/) — Production WSGI server
-
-*This project was developed as part of General Championship.*
